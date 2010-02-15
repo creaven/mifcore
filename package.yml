@@ -1,0 +1,27 @@
+name: Mif
+ 
+web: [http://mifjs.net/](http://mifjs.net/)
+ 
+description: mif
+ 
+authors: [Anton Samoylov](http://mifjs.net)
+ 
+license: MIT License
+ 
+copyright: &copy; [Anton Samoylov](http://mifjs.net)
+ 
+author: magmoro
+ 
+category: Interface
+ 
+tags: [application]
+ 
+sources:
+  - "Source/Mif/Mif.js"
+  - "Source/Mif/Mif.Util.js"
+  
+
+demo: http://mifjs.net/
+docs: http://mifjs.net/
+
+current: undefined
