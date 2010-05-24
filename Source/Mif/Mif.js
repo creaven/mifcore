@@ -38,7 +38,7 @@ provides: Mif
 		item.UID = uid;
 		return this;
 	};
-	Mif.retrieve = function(uid){
+	Mif.uid = function(uid){
 		return items[uid];
 	};
 	
